@@ -1,0 +1,15 @@
+C:\Users\24017\Desktop\用户中心\user_centure_back\src\main\java\com\wang\controller\userController.java
+C:\Users\24017\Desktop\用户中心\user_centure_back\src\main\java\com\wang\domain\request\UserRegisterRequest.java
+C:\Users\24017\Desktop\用户中心\user_centure_back\src\main\java\com\wang\UserCenterApplication.java
+C:\Users\24017\Desktop\用户中心\user_centure_back\src\main\java\com\wang\exception\GlobalExceptionHandler.java
+C:\Users\24017\Desktop\用户中心\user_centure_back\src\main\java\com\wang\common\ErrorCode.java
+C:\Users\24017\Desktop\用户中心\user_centure_back\src\main\java\com\wang\mapper\UserMapper.java
+C:\Users\24017\Desktop\用户中心\user_centure_back\src\main\java\com\wang\domain\request\UserLoginRequest.java
+C:\Users\24017\Desktop\用户中心\user_centure_back\src\main\java\com\wang\common\ResultUtils.java
+C:\Users\24017\Desktop\用户中心\user_centure_back\src\main\java\com\wang\constant\UserConstant.java
+C:\Users\24017\Desktop\用户中心\user_centure_back\src\main\java\com\wang\service\UserService.java
+C:\Users\24017\Desktop\用户中心\user_centure_back\src\main\java\com\wang\common\BaseResponse.java
+C:\Users\24017\Desktop\用户中心\user_centure_back\src\main\java\com\wang\exception\BusinessException.java
+C:\Users\24017\Desktop\用户中心\user_centure_back\src\main\java\com\wang\config\swaggerConfig.java
+C:\Users\24017\Desktop\用户中心\user_centure_back\src\main\java\com\wang\domain\User.java
+C:\Users\24017\Desktop\用户中心\user_centure_back\src\main\java\com\wang\service\impl\UserServiceImpl.java
