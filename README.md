@@ -99,5 +99,3 @@ mybatis-plus:
     map-underscore-to-camel-case: false
 ```
 
-### ==cookie和session==
-
